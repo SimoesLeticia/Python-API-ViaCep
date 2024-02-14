@@ -1,12 +1,12 @@
 # Python API ViaCep
-Este repositório foi criado visando praticar integrações com APIs utilizando Python, especificamente através da utilização da API **ViaCep** para buscar e retornar o endereço completo associado a um CEP fornecido pelo usuário.
+Este repositório foi criado visando praticar integrações com APIs utilizando Python, especificamente através da API **ViaCep** para buscar e retornar o endereço completo associado a um CEP fornecido pelo usuário.
 
 ## Conteúdo do Repositório
 
 | **fontes** |  |
 | :--- | --- |
 | *`viacep_main.py`* | Programa principal com as chamadas das funções. |
-| *`viacep_methods.py`* | Módulo que contém funções de integração com o Web Service da ViaCep. |
+| *`viacep_methods.py`* | Módulo que contém funções de integração com o Web Service ViaCep. |
 | **exemplos** |  |
 | *`viacep_exemplo.ipynb`* | Um notebook Jupyter com exemplos de uso do módulo para consultar informações de endereço. |
 
